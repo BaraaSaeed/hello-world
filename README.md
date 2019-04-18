@@ -1,5 +1,5 @@
 # hello-world
-Hi world,
-I am a software engineer, reasercher in cloud computing and a developer who loves to design and implement cool systems.
+Hi there,
+I am a software engineer, a reasercher in HPC and cloud computing and a developer who loves to lead projects from conception to deployment; and design and implement cool software systems.
 
-Any feedback is appreciated.
+Any sharing idea and projects is appreciated.
